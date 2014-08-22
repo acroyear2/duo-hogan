@@ -1,0 +1,15 @@
+{
+  "name": "duo-hogan",
+  "version": "0.1.0",
+  "description": "duo plugin for hogan.js templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "co-fs": "^1.2.0",
+    "hogan.js": "3.0.2"
+  }
+}
