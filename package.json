@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "co-fs": "^1.2.0",
-    "hogan.js": "3.0.2"
+    "hogan.js": "3.0.2",
+    "html-minifier": "^0.6.6"
   }
 }
